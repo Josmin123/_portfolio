@@ -12,7 +12,7 @@ Welcome to my Data Science and Data Analysis Portfolio. This compilation showcas
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Josmin123/_portfolio/blob/master/images/fake%20news.jpg"> **[Fake News Detection](https://github.com/Josmin123/Fake-news-detection)**
+<img align="left" width="250" height="150" src="Images/fake news.jpg"> **[Fake News Detection](https://github.com/Josmin123/Fake-news-detection)**
 
 The objective of this project is to analyze a dataset of news articles and predict whether a given article is fake or real. By employing various Natural Language Processing (NLP) techniques and fitting a Support Vector Machine (SVM) model, the project aims to enhance the accuracy of fake news detection. Additionally, text preprocessing and feature extraction were performed to prepare the data for effective model training.
 
