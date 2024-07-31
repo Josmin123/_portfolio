@@ -5,7 +5,7 @@ Welcome to my Data Science and Data Analysis Portfolio. This compilation showcas
 - **LinkedIn**: [linkedin.com/josmintherasababu](https://www.linkedin.com/in/josmintherasababu/)
 
   ## Projects
-<img align="left" width="250" height="150" src="Images/text image.png"> **(END TO END TEXT SUMMARIZATION (NLP PROJECT))**
+<img align="left" width="250" height="150" src="Images/text image.png"> **[END TO END TEXT SUMMARIZATION (NLP PROJECT)](https://github.com/Josmin123/Text-Summarization-Project)**
 
 In this project, I utilized NLP techniques and the Hugging Face transformer model to develop a comprehensive text summarization model. The project involved several stages, including data ingestion, data transformation, and data evaluation. A modular coding approach was adopted, encompassing the following components:
 
