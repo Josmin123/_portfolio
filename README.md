@@ -5,6 +5,17 @@ Welcome to my Data Science and Data Analysis Portfolio. This compilation showcas
 - **LinkedIn**: [linkedin.com/josmintherasababu](https://www.linkedin.com/in/josmintherasababu/)
 
   ## Projects
+<img align="left" width="250" height="150" src="Images/text image.png"> END TO END TEXT SUMMARIZATION (NLP PROJECT)
+
+In this project, I utilized NLP techniques and the Hugging Face transformer model to develop a comprehensive text summarization model. The project involved several stages, including data ingestion, data transformation, and data evaluation. A modular coding approach was adopted, encompassing the following components:
+
+Data Ingestion: Efficiently collecting and preparing data for processing.
+Data Transformation: Cleaning and transforming data to suit model requirements.
+Model Training: Training the model using the prepared data.
+Model Evaluation: Assessing model performance using appropriate metrics.
+Pipeline Creation: Integrating all components into a seamless pipeline.
+FastAPI Interface: Implementing a user-friendly front-end using FastAPI for interaction.
+This structured approach ensured a robust and scalable solution for text summarization.
 
 <img align="left" width="250" height="150" src="Images/loan image.png"> **[Loan Status Prediction ](https://github.com/Josmin123/Loan-status-prediction)**
 
